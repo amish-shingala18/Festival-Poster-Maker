@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\font_playfair.ttf.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\font\\playfair.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_call.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rect_button.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rect_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_diwalip1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\diwalip1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_dussehrap3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\dussehrap3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\font_fonts.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\font\\fonts.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rakshabandhan3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rakshabandhan3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ganesh5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ganesh5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_janmashtami5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\janmashtami5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_christmas.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\christmas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_dussehra4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\dussehra4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_closeback.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\closeback.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_makar_sankranti5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\makar_sankranti5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_dussehrap2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\dussehrap2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\font_bebas_neue.ttf.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\font\\bebas_neue.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_makar_sankranti.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\makar_sankranti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rakshabandhan2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rakshabandhan2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_janmashtami4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\janmashtami4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_transbox.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\transbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_dussehrap5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\dussehrap5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_holi1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\holi1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_holi4.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\holi4.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\font_tac_one.ttf.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\font\\tac_one.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_christmas4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\christmas4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_janmashtami3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\janmashtami3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_maha_shivratri4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\maha_shivratri4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_diwali.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\diwali.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_navratrip5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\navratrip5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_pin.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\layout_editdialog.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\layout\\editdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_email.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_makar_sankranti1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\makar_sankranti1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_navratri.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\navratri.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_festival_icon.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\festival_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_navratrip2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\navratrip2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_logoimage.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\logoimage.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_background_color.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_dussehra.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\dussehra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ganesh4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ganesh4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\layout_activity_posteredited.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\layout\\activity_posteredited.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_share.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_christmas1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\christmas1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_maha_shivratri2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\maha_shivratri2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ganesh1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ganesh1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_makar_sankranti2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\makar_sankranti2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ganesh.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ganesh.jpg"
+    },
+    {
+        "merged": "com.example.festivalpostermaker.app-debug-31:/layout_activity_posteredited.xml.flat",
+        "source": "com.example.festivalpostermaker.app-main-33:/layout/activity_posteredited.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_choose_square.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\choose_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\layout_activity_posters.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\layout\\activity_posters.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rakshabandhan.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rakshabandhan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_navratrip3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\navratrip3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_holi3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\holi3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_diwalip4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\diwalip4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_christmas2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\christmas2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_maha_shivratri3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\maha_shivratri3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_maha_shivratri1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\maha_shivratri1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_holi2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\holi2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\font_caveat.ttf.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\font\\caveat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ganesh2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ganesh2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_holi.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\holi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rakshabandhan5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rakshabandhan5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_makar_sankranti4.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\makar_sankranti4.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_janmashtami1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\janmashtami1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_navratrip4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\navratrip4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_diwalip3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\diwalip3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_navratrip1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\navratrip1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_christmas3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\christmas3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rakshabandhan1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rakshabandhan1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_ganesh3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\ganesh3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_holi5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\holi5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_maha_shivratri.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\maha_shivratri.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_download.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_website.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\website.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_makar_sankranti3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\makar_sankranti3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_janmashtami.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\janmashtami.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\layout_activity_finalposter.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\layout\\activity_finalposter.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_christmas5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\christmas5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_diwalip2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\diwalip2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_janmashtami2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\janmashtami2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_maha_shivratri5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\maha_shivratri5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_close.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_dussehrap1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\dussehrap1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_rakshabandhan4.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\rakshabandhan4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\font_italic.ttf.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\font\\italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_uploadimage.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\uploadimage.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-debug-31:\\drawable_diwalip5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.festivalpostermaker.app-main-33:\\drawable\\diwalip5.jpg"
+    }
+]

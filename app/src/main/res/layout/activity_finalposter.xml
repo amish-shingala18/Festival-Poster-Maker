@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".finalposter">
+
+    <LinearLayout
+        android:id="@+id/lnrFestApp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAlignment="center"
+        android:background="@drawable/choose_square">
+
+        <ImageView
+            android:id="@+id/imgFPBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="EDIT BUSINESS DETAILS"
+            android:textColor="@color/white"
+            android:textSize="22dp"
+            android:textStyle="italic"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgFinalPoster"
+        android:layout_below="@id/lnrFestApp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_margin="10dp"/>
+
+    <ScrollView
+        android:layout_below="@+id/imgFinalPoster"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="15dp">
+
+            <TextView
+                android:id="@+id/txtLogo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Upload Logo (*Optional)"
+                android:textColor="@color/black"/>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvLogo"
+                android:layout_below="@id/txtLogo"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="5dp"
+                app:cardCornerRadius="15dp">
+            <LinearLayout
+                android:id="@+id/lnrLogo"
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                style="@style/MyTextInputLayout_overlay"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:id="@+id/imgLogo"
+                    android:layout_width="130dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="20dp"
+                    android:src="@drawable/logoimage"/>
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="140dp"
+                    android:src="@drawable/uploadimage"/>
+            </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+            <TextView
+                android:id="@+id/txtBusinessName"
+                android:layout_below="@id/cvLogo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Business Name"
+                android:textColor="@color/black"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_below="@id/txtBusinessName"
+                android:id="@+id/edtBusinessNameLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/MyTextInputLayout_overlay"
+                app:endIconMode="clear_text"
+                android:layout_marginTop="5dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edtBusinessName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:textColor="@color/black"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/txtAddress"
+                android:layout_below="@id/edtBusinessNameLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Address"
+                android:textColor="@color/black"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_below="@id/txtAddress"
+                android:id="@+id/edtAddressLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/MyTextInputLayout_overlay"
+                app:endIconMode="clear_text"
+                android:layout_marginTop="5dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edtAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:textColor="@color/black"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/txtMobile"
+                android:layout_below="@id/edtAddressLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Mobile Number"
+                android:textColor="@color/black"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_below="@id/txtMobile"
+                android:id="@+id/edtMobileLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/MyTextInputLayout_overlay"
+                app:endIconMode="clear_text"
+                android:layout_marginTop="5dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edtMobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="10"
+                    android:textColor="@color/black"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/txtAltNumber"
+                android:layout_below="@+id/edtMobileLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Alternative Number"
+                android:layout_marginTop="10dp"/>
+
+            <RadioGroup
+                android:id="@+id/rgAltNumber"
+                android:layout_below="@+id/txtAltNumber"
+                android:orientation="horizontal"
+                android:theme="@style/MyTextInputLayout_overlay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/rdYes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yes"
+                    android:textColor="@color/black"/>
+                <RadioButton
+                    android:id="@+id/rdNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="@color/black"/>
+            </RadioGroup>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/edtAltNumLayout"
+                android:layout_below="@id/rgAltNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/MyTextInputLayout_overlay"
+                android:visibility="gone"
+                app:endIconMode="clear_text">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edtAltNum"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="10"
+                    android:textColor="@color/black"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/txtEmail"
+                android:layout_below="@id/edtAltNumLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Email"
+                android:textColor="@color/black"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_below="@id/txtEmail"
+                android:id="@+id/edtEmailLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/MyTextInputLayout_overlay"
+                app:endIconMode="clear_text"
+                android:layout_marginTop="5dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edtEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textEmailAddress"
+                    android:textColor="@color/black"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/txtWebsite"
+                android:layout_below="@id/edtEmailLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Website"
+                android:textColor="@color/black"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_below="@id/txtWebsite"
+                android:id="@+id/edtWebsiteLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/MyTextInputLayout_overlay"
+                app:endIconMode="clear_text"
+                android:layout_marginTop="5dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edtWebsite"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textWebEmailAddress"
+                    android:textColor="@color/black"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/edtWebsiteLayout"
+                android:gravity="center">
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/green"
+                android:text="NEXT"
+                android:textColor="@color/white"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

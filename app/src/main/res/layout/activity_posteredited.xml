@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".posteredited">
+
+    <LinearLayout
+        android:id="@+id/lnrFestApp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAlignment="center"
+        android:background="@drawable/choose_square">
+
+        <ImageView
+            android:id="@+id/imgPEBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Festival Poster Maker"
+            android:textColor="@color/white"
+            android:textSize="22dp"
+            android:textStyle="italic"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relImagePoster"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/lnrFestApp"
+        android:layout_width="370dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="30dp">
+
+        <ImageView
+            android:id="@+id/imgEditPoster"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@color/green"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/txtSetBusiness"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Business Name"
+            android:textAllCaps="true"
+            android:layout_marginTop="5dp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/PELogo"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitXY"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="20dp"/>
+
+        <LinearLayout
+            android:id="@+id/lnrSec1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <TextView
+                    android:id="@+id/txtSetMobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Mobile"
+                    android:textSize="10dp" />
+
+                <TextView
+                    android:id="@+id/txtSetAltMobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="Alt Number"
+                    android:textSize="10dp"
+                    android:gravity="center"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+                <TextView
+                    android:id="@+id/txtSetEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:textSize="10dp"
+                    android:text="Email"
+                    android:gravity="center"/>
+                <TextView
+                    android:id="@+id/txtSetWebsite"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:textSize="10dp"
+                    android:text="Website"
+                    android:gravity="center"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+                <TextView
+                    android:id="@+id/txtSetAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Address"
+                    android:inputType="textMultiLine"
+                    android:textSize="10dp"
+                    android:gravity="center"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lnrChoose"
+        android:layout_below="@id/relImagePoster"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/txtDownload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rect_button"
+            android:text="DOWNLOAD"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:drawableRight="@drawable/download"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp"
+            android:paddingRight="20dp"/>
+
+        <TextView
+            android:id="@+id/txtShare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rect_button"
+            android:text="SHARE"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:drawableRight="@drawable/share"
+            android:paddingRight="20dp"/>
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/editBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="40dp"
+        android:src="@drawable/edit"
+        android:backgroundTint="@color/green"/>
+</RelativeLayout>
